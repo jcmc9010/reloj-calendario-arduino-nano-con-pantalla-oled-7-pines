@@ -44,7 +44,7 @@ void setup(void)
   display.setTextSize(1);
   display.setTextColor(WHITE, BLACK);
   //display.drawRect(117, 56, 3, 3, WHITE);     // Put degree symbol ( ° )
-  draw_text(3, 24, "JAN CARLOS MARC CARO", 1);
+  draw_text(3, 24, "PROYECTO ARDUINO", 1);
   //draw_text(80, 24, "C", 1);
 }
  
